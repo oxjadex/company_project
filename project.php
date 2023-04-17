@@ -1,6 +1,6 @@
 <html>
-    <?php>
-
+    <?php
+    echo "i like php!!"
     ?>
 
     <script>
